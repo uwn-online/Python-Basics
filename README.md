@@ -1,2 +1,2 @@
-# Python-Projects
-Collection of Python projects
+# Python Basics
+Collection of basic Python practice scripts.
