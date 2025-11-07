@@ -61,3 +61,7 @@ print('The first participant in our games is ' + participants[0] + '.')
 "Alice, 35, france"
 name, age, country = "Alice, 35, france".split()
 print(name, age, country)
+
+
+age = 27
+print('Josh is ' ,age)
